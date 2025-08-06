@@ -1,4 +1,4 @@
-Smart Home Simulation in C
+# Smart Home Simulation in C
 A C-based smart home simulation that monitors and reacts to the environmental aka.: temperature, gas leaks, motion detection, and outdoor conditions.
 It controls heating, fans, lights, windows, and shades automatically to simulate a realistic smart home system.
 
