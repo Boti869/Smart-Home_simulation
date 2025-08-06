@@ -1,8 +1,16 @@
-# Smart Home Simulation in C
-A C-based smart home simulation that monitors and reacts to the environmental aka.: temperature, gas leaks, motion detection, and outdoor conditions.
-It controls heating, fans, lights, windows, and shades automatically to simulate a realistic smart home system.
+# Smart Home Simulation
 
-Features:
+A C-language simulation of a smart home system with:
+- Motion detection
+- Gas leak detection and automated safety protocol
+- Dynamic indoor temperature and window/fan management
+- Automatic logging to timestamped files
+
+## Features
+- Randomized simulation of a 10-room house
+- Seasonal and weather-based behavior
+- Emergency response with file logging in `gas_logs/`
+
 🌡 Temperature Control – Automatic heating and fan management.
 
 💨 Gas Leak Detection – High/Extreme levels trigger safety protocols and create a log file.
