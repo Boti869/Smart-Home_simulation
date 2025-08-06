@@ -25,12 +25,13 @@ A C-language simulation of a smart home system with:
 |->  All rooms are put into emergency mode.
 |->  A file: GAS_ALERT_year_month_day_hour-min-sec.txt is created in the gas_logs/ folder.
 
-TO COMPILE: 
+## TO COMPILE: 
 Use GCC (MinGW/MSYS2 on Windows):
-gcc main.c rooms.c outdoors.c setup.c updates.c helper.c house.c -o main.exe -Wall -g
-./smarthome.exe
+- gcc main.c rooms.c outdoors.c setup.c updates.c helper.c house.c -o main.exe -Wall -g
+- ./smarthome.exe
 
-This project is licensed under the MIT License – see LICENSE for details.
+
+ This project is licensed under the MIT License – see LICENSE for details.
 
 (basically means you can do whatever you want with it. 
 I just realised that if I don't licence you *legally* can't do anything to it)
