@@ -27,7 +27,7 @@ A C-language simulation of a smart home system with:
 
 ## TO COMPILE: 
 Use GCC (MinGW/MSYS2 on Windows):
-- gcc main.c rooms.c outdoors.c setup.c updates.c helper.c house.c -o main.exe -Wall -g
+- gcc main.c helper_c_files/*.c -o smart_home
 - ./smarthome.exe
 
 
