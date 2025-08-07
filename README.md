@@ -27,9 +27,10 @@ A C-language simulation of a smart home system with:
 
 ## TO COMPILE: 
 Use GCC (MinGW/MSYS2 on Windows):
+```
 - gcc main.c helper_c_files/*.c -o smart_home  <-- compile into smart_home.exe
 - smarthome.exe  <-- to run the program
-
+```
 
  ### Licence
  This project is licensed under the MIT License – see LICENSE for details.
