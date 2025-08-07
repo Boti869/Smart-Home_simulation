@@ -31,7 +31,7 @@ Use GCC (MinGW/MSYS2 on Windows):
 - smarthome.exe  <-- to run the program
 
 
- 
+ ### Licence
  This project is licensed under the MIT License – see LICENSE for details.
 
 (basically means you can do whatever you want with it. 
