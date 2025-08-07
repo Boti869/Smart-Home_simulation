@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"include_header/enums.h"
-#include"include_header/house.h"
-#include"include_header/outdoor.h"
-#include"include_header/rooms.h"
-#include"include_header/helper.h"
+#include"../include_header/enums.h"
+#include"../include_header/house.h"
+#include"../include_header/outdoor.h"
+#include"../include_header/rooms.h"
+#include"../include_header/helper.h"
 
 void updateOutdoors(Outdoors *o) {
     o->temperature = getTemperatureOut(o->temperature);

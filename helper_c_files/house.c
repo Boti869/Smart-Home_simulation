@@ -1,4 +1,4 @@
-#include"include_header/house.h"
+#include"../include_header/house.h"
 
 Room house[10] = {
     {"Terrace"}, {"Lobby"}, {"Kitchen"},

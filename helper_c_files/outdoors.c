@@ -4,11 +4,11 @@
 #include<time.h>
 #include<stdbool.h>
 #include<windows.h>
-#include"include_header/enums.h"
-#include"include_header/house.h"
-#include"include_header/outdoor.h"
-#include"include_header/rooms.h"
-#include"include_header/helper.h"
+#include"../include_header/enums.h"
+#include"../include_header/house.h"
+#include"../include_header/outdoor.h"
+#include"../include_header/rooms.h"
+#include"../include_header/helper.h"
 
 
 //temperature

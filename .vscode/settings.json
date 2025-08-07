@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "enums.h": "c",
+        "house.h": "c",
+        "outdoor.h": "c",
+        "rooms.h": "c",
+        "setup.h": "c",
+        "updates.h": "c",
+        "helper.h": "c",
+        "stdlib.h": "c"
+    }
+}

@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<time.h>
-#include"include_header/enums.h"
+#include"../include_header/enums.h"
 
 //hour helper
 int getHour() {
